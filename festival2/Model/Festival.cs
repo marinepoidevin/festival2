@@ -26,6 +26,7 @@ namespace festival2.Model
             DateDebut = dateDebut;
             DateFin = dateFin;
             Scenes = scenes;
+            //cmmdentaire
         }
 
         public Festival(string nom, string lieu, DateTime dateDebut, DateTime dateFin, int codePostal)
