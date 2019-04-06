@@ -18,6 +18,7 @@ namespace festival2.Model
             Nom = nom;
             Capacite = capacite;
             //fygjhkj
+            //kuyjhd
         }
 
         public Scene(string nom, int capacite)
